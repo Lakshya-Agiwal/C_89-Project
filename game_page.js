@@ -78,6 +78,7 @@ function check()
             document.getElementById("result").innerHTML = "Wrong";
         }
      }
+     document.getElementById("output").innerHTML = "";
 }
 
 
